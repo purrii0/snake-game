@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+build/
+raylib/build/
+
+# Object files
+*.o
+
+# Libraries
+*.a
+*.so
+
+# Executables
+*.out
+*.exe
