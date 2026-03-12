@@ -2,7 +2,7 @@
 
 A simple **snake game** written in **C++** using the **raylib** graphics library.
 
-![Game Demo](media/snake_game.png)
+![Game Demo](/snake_game.png)
 
 ## Requirements
 
